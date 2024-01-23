@@ -1,0 +1,1058 @@
+[
+  {
+    "data": "2022-01-01",
+    "id_marca_": 1,
+    "vendas": 40,
+    "valor_do_veiculo": 29000,
+    "nome": "Mobi",
+    "id": 1
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 1,
+    "vendas": 2,
+    "valor_do_veiculo": 49000,
+    "nome": "argo",
+    "id": 2
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 1,
+    "vendas": 3,
+    "valor_do_veiculo": 19000,
+    "nome": "Uno",
+    "id": 3
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 2,
+    "vendas": 35,
+    "valor_do_veiculo": 35000,
+    "nome": "Up",
+    "id": 4
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 3,
+    "vendas": 42,
+    "valor_do_veiculo": 32000,
+    "nome": "Picanto",
+    "id": 5
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 2,
+    "vendas": 2,
+    "valor_do_veiculo": 40000,
+    "nome": "Gol",
+    "id": 6
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 7,
+    "vendas": 4,
+    "valor_do_veiculo": 60000,
+    "nome": "Lancer",
+    "id": 7
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 2,
+    "vendas": 1,
+    "valor_do_veiculo": 35000,
+    "nome": "Kombi",
+    "id": 8
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 9,
+    "vendas": 2,
+    "valor_do_veiculo": 45200,
+    "nome": "onix",
+    "id": 9
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 270000,
+    "nome": "E-J7",
+    "id": 10
+  },
+  {
+    "data": "2022-01-01",
+    "id_marca_": 11,
+    "vendas": 5,
+    "valor_do_veiculo": 70000,
+    "nome": "Captur",
+    "id": 11
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 1,
+    "vendas": 1,
+    "valor_do_veiculo": 8000,
+    "nome": "Palio",
+    "id": 12
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 2,
+    "vendas": 40,
+    "valor_do_veiculo": 35000,
+    "nome": "Up",
+    "id": 13
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 1,
+    "vendas": 52,
+    "valor_do_veiculo": 29000,
+    "nome": "Mobi",
+    "id": 14
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 3,
+    "vendas": 30,
+    "valor_do_veiculo": 36000,
+    "nome": "Picanto",
+    "id": 15
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 5,
+    "vendas": 15,
+    "valor_do_veiculo": 45000,
+    "nome": "Yaris",
+    "id": 16
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 6,
+    "vendas": 2,
+    "valor_do_veiculo": 28000,
+    "nome": "March",
+    "id": 17
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 7,
+    "vendas": 7,
+    "valor_do_veiculo": 240000,
+    "nome": "L200",
+    "id": 18
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 2,
+    "vendas": 6,
+    "valor_do_veiculo": 30000,
+    "nome": "Gol",
+    "id": 19
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 3,
+    "vendas": 4,
+    "valor_do_veiculo": 41000,
+    "nome": "Cerato",
+    "id": 20
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 10,
+    "vendas": 6,
+    "valor_do_veiculo": 145000,
+    "nome": "E-JS1",
+    "id": 21
+  },
+  {
+    "data": "2022-02-01",
+    "id_marca_": 11,
+    "vendas": 3,
+    "valor_do_veiculo": 60000,
+    "nome": "Duster",
+    "id": 22
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 1,
+    "vendas": 1,
+    "valor_do_veiculo": 10000,
+    "nome": "Uno",
+    "id": 23
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 2,
+    "vendas": 30,
+    "valor_do_veiculo": 35000,
+    "nome": "Up",
+    "id": 24
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 3,
+    "vendas": 25,
+    "valor_do_veiculo": 145000,
+    "nome": "Picanto",
+    "id": 25
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 4,
+    "vendas": 20,
+    "valor_do_veiculo": 79000,
+    "nome": "208",
+    "id": 26
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 1,
+    "vendas": 30,
+    "valor_do_veiculo": 30000,
+    "nome": "Mobi",
+    "id": 27
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 2,
+    "vendas": 1,
+    "valor_do_veiculo": 28000,
+    "nome": "Gol",
+    "id": 28
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 7,
+    "vendas": 1,
+    "valor_do_veiculo": 75000,
+    "nome": "Lancer",
+    "id": 29
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 8,
+    "vendas": 2,
+    "valor_do_veiculo": 300000,
+    "nome": "Forester",
+    "id": 30
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 9,
+    "vendas": 3,
+    "valor_do_veiculo": 45000,
+    "nome": "onix",
+    "id": 31
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 10,
+    "vendas": 5,
+    "valor_do_veiculo": 25000,
+    "nome": "J5",
+    "id": 32
+  },
+  {
+    "data": "2022-03-01",
+    "id_marca_": 11,
+    "vendas": 1,
+    "valor_do_veiculo": 30000,
+    "nome": "Sandero",
+    "id": 33
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 1,
+    "vendas": 40,
+    "valor_do_veiculo": 28000,
+    "nome": "Mobi",
+    "id": 34
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 2,
+    "vendas": 45,
+    "valor_do_veiculo": 30000,
+    "nome": "Up",
+    "id": 35
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 3,
+    "vendas": 30,
+    "valor_do_veiculo": 26000,
+    "nome": "Picanto",
+    "id": 36
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 4,
+    "vendas": 25,
+    "valor_do_veiculo": 85000,
+    "nome": "208",
+    "id": 37
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 1,
+    "vendas": 1,
+    "valor_do_veiculo": 12000,
+    "nome": "Palio",
+    "id": 38
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 6,
+    "vendas": 5,
+    "valor_do_veiculo": 30000,
+    "nome": "March",
+    "id": 39
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 7,
+    "vendas": 1,
+    "valor_do_veiculo": 124000,
+    "nome": "Eclipse",
+    "id": 40
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 8,
+    "vendas": 4,
+    "valor_do_veiculo": 320000,
+    "nome": "XV",
+    "id": 41
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 2,
+    "vendas": 1,
+    "valor_do_veiculo": 99000,
+    "nome": "Polo",
+    "id": 42
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 14000,
+    "nome": "J2",
+    "id": 43
+  },
+  {
+    "data": "2022-04-01",
+    "id_marca_": 11,
+    "vendas": 5,
+    "valor_do_veiculo": 25000,
+    "nome": "Clio",
+    "id": 44
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 1,
+    "vendas": 50,
+    "valor_do_veiculo": 25000,
+    "nome": "Mobi",
+    "id": 45
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 2,
+    "vendas": 45,
+    "valor_do_veiculo": 29000,
+    "nome": "Up",
+    "id": 46
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 3,
+    "vendas": 35,
+    "valor_do_veiculo": 19000,
+    "nome": "Picanto",
+    "id": 47
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 1,
+    "vendas": 2,
+    "valor_do_veiculo": 28000,
+    "nome": "argo",
+    "id": 48
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 5,
+    "vendas": 3,
+    "valor_do_veiculo": 35000,
+    "nome": "Yaris",
+    "id": 49
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 6,
+    "vendas": 7,
+    "valor_do_veiculo": 22000,
+    "nome": "March",
+    "id": 50
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 2,
+    "vendas": 2,
+    "valor_do_veiculo": 90000,
+    "nome": "T-Cross",
+    "id": 51
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 8,
+    "vendas": 4,
+    "valor_do_veiculo": 320000,
+    "nome": "Forester",
+    "id": 52
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 9,
+    "vendas": 3,
+    "valor_do_veiculo": 40000,
+    "nome": "onix",
+    "id": 53
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 10,
+    "vendas": 2,
+    "valor_do_veiculo": 12000,
+    "nome": "J2",
+    "id": 54
+  },
+  {
+    "data": "2022-05-01",
+    "id_marca_": 11,
+    "vendas": 5,
+    "valor_do_veiculo": 18000,
+    "nome": "Clio",
+    "id": 55
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 1,
+    "vendas": 45,
+    "valor_do_veiculo": 26000,
+    "nome": "Mobi",
+    "id": 56
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 2,
+    "vendas": 35,
+    "valor_do_veiculo": 30000,
+    "nome": "Up",
+    "id": 57
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 3,
+    "vendas": 30,
+    "valor_do_veiculo": 20000,
+    "nome": "Picanto",
+    "id": 58
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 4,
+    "vendas": 20,
+    "valor_do_veiculo": 78000,
+    "nome": "208",
+    "id": 59
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 1,
+    "vendas": 2,
+    "valor_do_veiculo": 20000,
+    "nome": "Uno",
+    "id": 60
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 6,
+    "vendas": 3,
+    "valor_do_veiculo": 23000,
+    "nome": "March",
+    "id": 61
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 7,
+    "vendas": 8,
+    "valor_do_veiculo": 160000,
+    "nome": "Pajero",
+    "id": 62
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 1,
+    "vendas": 4,
+    "valor_do_veiculo": 80000,
+    "nome": "Cronos",
+    "id": 63
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 9,
+    "vendas": 8,
+    "valor_do_veiculo": 42000,
+    "nome": "onix",
+    "id": 64
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 13000,
+    "nome": "J2",
+    "id": 65
+  },
+  {
+    "data": "2022-06-01",
+    "id_marca_": 11,
+    "vendas": 3,
+    "valor_do_veiculo": 80000,
+    "nome": "Sandero RS",
+    "id": 66
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 1,
+    "vendas": 40,
+    "valor_do_veiculo": 32000,
+    "nome": "Mobi",
+    "id": 67
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 2,
+    "vendas": 35,
+    "valor_do_veiculo": 35000,
+    "nome": "Up",
+    "id": 68
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 3,
+    "vendas": 38,
+    "valor_do_veiculo": 18000,
+    "nome": "Picanto",
+    "id": 69
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 4,
+    "vendas": 6,
+    "valor_do_veiculo": 80000,
+    "nome": "2008",
+    "id": 70
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 5,
+    "vendas": 20,
+    "valor_do_veiculo": 140000,
+    "nome": "Corolla",
+    "id": 71
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 2,
+    "vendas": 1,
+    "valor_do_veiculo": 120000,
+    "nome": "Jetta",
+    "id": 72
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 7,
+    "vendas": 3,
+    "valor_do_veiculo": 75000,
+    "nome": "Lancer",
+    "id": 73
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 8,
+    "vendas": 15,
+    "valor_do_veiculo": 250000,
+    "nome": "WRX",
+    "id": 74
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 9,
+    "vendas": 3,
+    "valor_do_veiculo": 55000,
+    "nome": "onix",
+    "id": 75
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 10,
+    "vendas": 4,
+    "valor_do_veiculo": 10000,
+    "nome": "J2",
+    "id": 76
+  },
+  {
+    "data": "2022-07-01",
+    "id_marca_": 11,
+    "vendas": 8,
+    "valor_do_veiculo": 35000,
+    "nome": "Duster",
+    "id": 77
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 1,
+    "vendas": 25,
+    "valor_do_veiculo": 35000,
+    "nome": "Mobi",
+    "id": 78
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 2,
+    "vendas": 20,
+    "valor_do_veiculo": 38000,
+    "nome": "Up",
+    "id": 79
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 3,
+    "vendas": 22,
+    "valor_do_veiculo": 33000,
+    "nome": "Picanto",
+    "id": 80
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 4,
+    "vendas": 10,
+    "valor_do_veiculo": 78000,
+    "nome": "208",
+    "id": 81
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 5,
+    "vendas": 10,
+    "valor_do_veiculo": 14000,
+    "nome": "Corolla",
+    "id": 82
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 6,
+    "vendas": 1,
+    "valor_do_veiculo": 22000,
+    "nome": "March",
+    "id": 83
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 7,
+    "vendas": 3,
+    "valor_do_veiculo": 300000,
+    "nome": "L200",
+    "id": 84
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 2,
+    "vendas": 6,
+    "valor_do_veiculo": 60000,
+    "nome": "Saveiro",
+    "id": 85
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 9,
+    "vendas": 4,
+    "valor_do_veiculo": 45000,
+    "nome": "onix",
+    "id": 86
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 12000,
+    "nome": "J2",
+    "id": 87
+  },
+  {
+    "data": "2022-08-01",
+    "id_marca_": 11,
+    "vendas": 4,
+    "valor_do_veiculo": 32000,
+    "nome": "Clio",
+    "id": 88
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 1,
+    "vendas": 20,
+    "valor_do_veiculo": 34000,
+    "nome": "Mobi",
+    "id": 89
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 2,
+    "vendas": 21,
+    "valor_do_veiculo": 45000,
+    "nome": "Up",
+    "id": 90
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 3,
+    "vendas": 18,
+    "valor_do_veiculo": 35000,
+    "nome": "Picanto",
+    "id": 91
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 4,
+    "vendas": 1,
+    "valor_do_veiculo": 19000,
+    "nome": "307",
+    "id": 92
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 5,
+    "vendas": 4,
+    "valor_do_veiculo": 120000,
+    "nome": "Corolla",
+    "id": 93
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 6,
+    "vendas": 2,
+    "valor_do_veiculo": 30000,
+    "nome": "March",
+    "id": 94
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 7,
+    "vendas": 3,
+    "valor_do_veiculo": 70000,
+    "nome": "Lancer",
+    "id": 95
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 8,
+    "vendas": 5,
+    "valor_do_veiculo": 240000,
+    "nome": "Brz",
+    "id": 96
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 9,
+    "vendas": 4,
+    "valor_do_veiculo": 38000,
+    "nome": "onix",
+    "id": 97
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 10000,
+    "nome": "J2",
+    "id": 98
+  },
+  {
+    "data": "2022-09-01",
+    "id_marca_": 11,
+    "vendas": 1,
+    "valor_do_veiculo": 32000,
+    "nome": "Sandero",
+    "id": 99
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 1,
+    "vendas": 15,
+    "valor_do_veiculo": 60000,
+    "nome": "Mobi",
+    "id": 100
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 2,
+    "vendas": 17,
+    "valor_do_veiculo": 54000,
+    "nome": "Up",
+    "id": 101
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 3,
+    "vendas": 19,
+    "valor_do_veiculo": 42000,
+    "nome": "Picanto",
+    "id": 102
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 4,
+    "vendas": 6,
+    "valor_do_veiculo": 12000,
+    "nome": "206",
+    "id": 103
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 5,
+    "vendas": 2,
+    "valor_do_veiculo": 60000,
+    "nome": "Yaris",
+    "id": 104
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 2,
+    "vendas": 2,
+    "valor_do_veiculo": 45000,
+    "nome": "Kombi",
+    "id": 105
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 7,
+    "vendas": 3,
+    "valor_do_veiculo": 80000,
+    "nome": "Lancer",
+    "id": 106
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 8,
+    "vendas": 10,
+    "valor_do_veiculo": 360000,
+    "nome": "Forester",
+    "id": 107
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 9,
+    "vendas": 1,
+    "valor_do_veiculo": 40000,
+    "nome": "onix",
+    "id": 108
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 10,
+    "vendas": 2,
+    "valor_do_veiculo": 14000,
+    "nome": "J2",
+    "id": 109
+  },
+  {
+    "data": "2022-10-01",
+    "id_marca_": 11,
+    "vendas": 6,
+    "valor_do_veiculo": 36000,
+    "nome": "Clio",
+    "id": 110
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 1,
+    "vendas": 25,
+    "valor_do_veiculo": 64000,
+    "nome": "Mobi",
+    "id": 111
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 2,
+    "vendas": 26,
+    "valor_do_veiculo": 58000,
+    "nome": "Up",
+    "id": 112
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 3,
+    "vendas": 30,
+    "valor_do_veiculo": 46000,
+    "nome": "Picanto",
+    "id": 113
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 4,
+    "vendas": 15,
+    "valor_do_veiculo": 92000,
+    "nome": "208",
+    "id": 114
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 5,
+    "vendas": 6,
+    "valor_do_veiculo": 158000,
+    "nome": "Corolla",
+    "id": 115
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 6,
+    "vendas": 3,
+    "valor_do_veiculo": 30000,
+    "nome": "March",
+    "id": 116
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 1,
+    "vendas": 2,
+    "valor_do_veiculo": 42000,
+    "nome": "Uno",
+    "id": 117
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 3,
+    "vendas": 1,
+    "valor_do_veiculo": 89000,
+    "nome": "Rio",
+    "id": 118
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 9,
+    "vendas": 5,
+    "valor_do_veiculo": 40000,
+    "nome": "onix",
+    "id": 119
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 12000,
+    "nome": "J2",
+    "id": 120
+  },
+  {
+    "data": "2022-11-01",
+    "id_marca_": 11,
+    "vendas": 10,
+    "valor_do_veiculo": 42000,
+    "nome": "Clio",
+    "id": 121
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 1,
+    "vendas": 32,
+    "valor_do_veiculo": 72000,
+    "nome": "Mobi",
+    "id": 122
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 2,
+    "vendas": 24,
+    "valor_do_veiculo": 68000,
+    "nome": "Up",
+    "id": 123
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 3,
+    "vendas": 19,
+    "valor_do_veiculo": 49000,
+    "nome": "Picanto",
+    "id": 124
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 4,
+    "vendas": 1,
+    "valor_do_veiculo": 90000,
+    "nome": "2008",
+    "id": 125
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 5,
+    "vendas": 3,
+    "valor_do_veiculo": 75000,
+    "nome": "Yaris",
+    "id": 126
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 1,
+    "vendas": 1,
+    "valor_do_veiculo": 15000,
+    "nome": "Palio",
+    "id": 127
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 7,
+    "vendas": 5,
+    "valor_do_veiculo": 280000,
+    "nome": "Pajero",
+    "id": 128
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 8,
+    "vendas": 12,
+    "valor_do_veiculo": 360000,
+    "nome": "Forester",
+    "id": 129
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 3,
+    "vendas": 2,
+    "valor_do_veiculo": 45000,
+    "nome": "Cerato",
+    "id": 130
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 10,
+    "vendas": 1,
+    "valor_do_veiculo": 12000,
+    "nome": "J2",
+    "id": 131
+  },
+  {
+    "data": "2022-12-01",
+    "id_marca_": 11,
+    "vendas": 6,
+    "valor_do_veiculo": 52000,
+    "nome": "Sandero",
+    "id": 132
+  }
+]
